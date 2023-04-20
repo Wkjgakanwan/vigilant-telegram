@@ -1,0 +1,5 @@
+{
+    "typescript.tsserver.log": "normal",
+    "typescript.tsserver.maxTsServerMemory": 13,
+    "typescript.updateImportsOnFileMove.enabled": "never"
+}

@@ -1,6 +1,7 @@
-{
+python wkj}#{
   "version": "0.2.0",
   "configurations": [
+  dev
     {
       "name": "Run application",
       "type": "node",

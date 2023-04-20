@@ -1,4 +1,4 @@
-{
+https://marketplace.visualstudio.com/items?itemName=wkjmusic.autopreviewer{
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "hostRequirements": {
     "cpus": 4
@@ -15,7 +15,12 @@
         "src/index.js",
         "src/routes/home/index.js"
       ]
-    }
+	},
+	"vscode": {
+		"extensions": [
+			"jawei.autopreviewer"
+		]
+	}
   },
   "portsAttributes": {
     "8080": {
